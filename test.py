@@ -1,22 +1,10 @@
+from dataclasses import dataclass
 
+@dataclass
+class Deck: 
+    var1 : str = "3"
+    var2: int = 3
 
-# Python program to write JSON 
-# to a file 
-  
-  
-import json 
-  
-# Data to be written 
-dictionary ={ 
-    "name" : "sathiyajith", 
-    "rollno" : 56, 
-    "cgpa" : 8.6, 
-    "phonenumber" : "9976770500"
-} 
-  
-# Serializing json  
-json_object = json.dumps(dictionary, indent = 4) 
-  
-# Writing to sample.json 
-with open("test/sample.json", "w") as outfile: 
-    outfile.write(json_object) 
+print(Deck.cls_def.x)
+print(Deck.cls_def.x)
+
