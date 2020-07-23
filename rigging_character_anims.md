@@ -22,3 +22,16 @@ running 1-41
 iron sights 1-10
 mode switch 1-66
 end 1-6 
+
+
+I to insert keyframes
+
+
+save in action editor > click shield
+
+push down to make it a strip
+
+CTRL ALT P loop through preview range
+
+ALT P out
+
