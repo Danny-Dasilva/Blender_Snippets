@@ -11,8 +11,8 @@ camera > viewport display > passepartout  > opacity 100
 
 position and rigg everything
 
-start 1-20
-idle 1-289
+start 1-20  lock in place up | rotate past then pull in
+idle 1-289  up down breathing
 adjust 1-30
 fire fast 1-4
 fire single 1-11
@@ -21,7 +21,8 @@ jump 1-70
 running 1-41
 iron sights 1-10
 mode switch 1-66
-end 1-6 
+end 1-6 flip down - do preemptive
+
 
 
 I to insert keyframes
@@ -30,8 +31,14 @@ I to insert keyframes
 save in action editor > click shield
 
 push down to make it a strip
+g to grab and move strips
 
 CTRL ALT P loop through preview range
 
 ALT P out
 
+
+CTRL tab curves on action editor
+
+
+click period on number pad to zoom into curve
