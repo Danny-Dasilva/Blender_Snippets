@@ -14,8 +14,8 @@ position and rigg everything
 start 1-20  lock in place up | rotate past then pull in
 idle 1-289  up down breathing
 adjust 1-30
-fire fast 1-4
-fire single 1-11
+fire fast 1-4   
+fire single 1-11  - frame 2 pull back on y , frame 5 angle up , also rotate out 
 reload 1-40
 jump 1-70
 running 1-41
