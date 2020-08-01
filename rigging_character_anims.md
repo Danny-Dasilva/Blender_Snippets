@@ -17,9 +17,9 @@ adjust 1-30
 fire fast 1-4   
 fire single 1-11  - frame 2 pull back on y , frame 5 angle up , also rotate out a bit
 reload 1-40 / 1-70 depending on extra actions
-jump 1-70
-running 1-41
-iron sights 1-10
+jump 1-70 26 - start 3 frames in down pose
+running 1-41 - 17 walk cycle > up down swing side to side back forward
+iron sights 1-10 - same as single and fast > 
 mode switch 1-66
 end 1-6 flip down - do preemptive
 
@@ -47,3 +47,5 @@ click period on number pad to zoom into curve
 ---
 file revert for proxys reloads them 
 
+TO CYCLE ANIMATION -
+channel > extapolation mode > make cyclic
