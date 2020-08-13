@@ -22,3 +22,10 @@ color
 metallic 
 normal 
 roughness
+
+
+---
+three modes
+basic import and layers
+id maps
+udim
