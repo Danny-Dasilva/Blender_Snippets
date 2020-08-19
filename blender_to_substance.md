@@ -29,3 +29,28 @@ three modes
 basic import and layers
 id maps
 udim 2020 paint across textures for substance
+---
+gun tutorial
+stamps - make ps or ai stamps as alphas
+import them into substance as textures
+create folder > add fill layer > turn off everything except height
+add blur layer in substance if its too sharp
+
+------
+painting grip 
+draw mask with fill layer pick a color
+CTRL shift e export - diffuse
+open diffuse in ai
+you can edit with a paint layer
+add fill> black mask> procedurals > replace grayscale with it
+make sure mask is the alpha mask
+duplicate add scale
+----
+line down the middle
+fill > black mask > fill - turn on planar projection
+rotate and scale till it fits
+---
+masks 
+add folder > alt click mask
+
+
