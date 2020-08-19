@@ -28,4 +28,4 @@ roughness
 three modes
 basic import and layers
 id maps
-udim
+udim 2020 paint across textures for substance
