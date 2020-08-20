@@ -30,7 +30,7 @@ basic import and layers
 id maps
 udim 2020 paint across textures for substance
 ---
-gun tutorial
+gun tutorial gunauction/ auctions.morphyauctions/rockislandauction
 stamps - make ps or ai stamps as alphas
 import them into substance as textures
 create folder > add fill layer > turn off everything except height
@@ -49,8 +49,15 @@ duplicate add scale
 line down the middle
 fill > black mask > fill - turn on planar projection
 rotate and scale till it fits
+put that in a folder with a mask with your parts
+add blur> levels> paint
 ---
 masks 
 add folder > alt click mask
-
+M to see material again
+---
+marmosett
+20% fov
+material - normal, glossy, albedo, specular
+CTRL F to rotate a camera around a mesh
 
