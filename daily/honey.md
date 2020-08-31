@@ -33,13 +33,4 @@ mesh to 3 -
 
 
 
-
-Traceback (most recent call last):
-  File "C:\Users\yahch\AppData\Roaming\Blender Foundation\Blender\2.90\scripts\addons\tissue-master\dual_mesh.py", line 247, in execute
-    apply_as='DATA', modifier='dual_mesh_subsurf'
-  File "D:\Users\yahch\Downloads\blender-2.90.0-21cb6f09ffa8-windows64\blender2.9\2.90\scripts\modules\bpy\ops.py", line 201, in __call__
-    ret = op_call(self.idname_py(), None, kw)
-TypeError: Converting py args to operator properties: : keyword "apply_as" unrecognized
-
-location: <unknown location>:-1
-
+check frame s and liquidity settings
