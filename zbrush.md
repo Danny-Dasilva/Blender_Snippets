@@ -26,9 +26,28 @@ Z to toggle spotlight tool shift Z to toggle whole thing
 
 
 Brush samples spolight projection off
+-----
+Basics
+alt click drag for move on plane
+alt brush for remove geometry
+
+shift click drag for snap to gid
+f for zoom to frame
+
+x for symertry toggle
+
+s for change brush scale
+
+shift to smooth
 
 ----
 insert primitive
 
 shift F for wireframe toggle
 X to toggle mirror mode
+--------
+scupltris mode
+B for brush menu
+
+ctrl click drag to refresh dynamesh
+
